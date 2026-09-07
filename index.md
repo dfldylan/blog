@@ -7,7 +7,6 @@ title: Dylan 的折腾记录
 
 ## 最新文章
 
-### [把一台 2017 年的创维电视调成可用的 1080p60 Moonlight 客户端]({% post_url 2026-09-07-skyworth-moonlight-1080p60 %})
+### [把一台 2017 年的创维电视调成可用的 1080p60 Moonlight 客户端]({{ site.baseurl }}{% post_url 2026-09-07-skyworth-moonlight-1080p60 %})
 
 创维 40E3500、Android 4.4.2、海思 Hi3751V320：从系统误报 720p25，到带弹幕的 B 站 1080p60 串流稳定在约 58.5fps 的完整排障记录。
-
